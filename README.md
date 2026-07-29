@@ -1,16 +1,19 @@
-## Hi there 👋
+![CodeWars](https://www.codewars.com/users/jtj1rh/badges/micro)
 
-<!--
-**jtj1rh/jtj1rh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Hello, I'm JT 👋🏻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✈️ I'm an ***Aeronautical Engineer*** interested in *Programming*,
+
+- 📊 *Data Analytics*, *Data Visualization*, and *Web Development* 🌐
+
+- 🐍 Mostly  programming in Python, creating GUIs using PyQt5 and Tkinter,
+
+- 🎮 Recreating classic games and simulations using Pygame
+
+- 🔍 Interested in freelance/full-time work. [Contact me!](www.linkedin.com/in/judethaddeushuang)
+
+---
+
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,github,git,autocad,postgres)](https://skillicons.dev)
